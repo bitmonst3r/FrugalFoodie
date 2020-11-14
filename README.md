@@ -100,7 +100,7 @@ Notes:
 - RecyclerView
 ***
 
-**User Story**: View Individual Recipes
+**User Story**: View Individual Recipes - Debbie
 > As a user I want to view a specific recipe after search so I can view the directions for the recipe.
 
 **How will it be tested**:
